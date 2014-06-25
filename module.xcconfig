@@ -21,7 +21,7 @@
 // How to add a compiler define:
 //
 // OTHER_CFLAGS=$(inherited) -DFOO=1
-OTHER_LDFLAGS=$(inherited) -framework NCMB -F"/Users/nakatsugawa/Downloads/test/NCMBiOS/" -framework FacebookSDK
+OTHER_LDFLAGS=$(inherited) -framework NCMB -F"path_to_TiNCMB" -framework FacebookSDK
 
 //
 //

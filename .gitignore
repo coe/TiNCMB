@@ -2,7 +2,6 @@ tmp
 bin
 build
 *.zip
-example/app.js
 NCMB.framework/
 FacebookSDK.framework/
 JSONKit.*
